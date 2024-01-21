@@ -1,1 +1,3 @@
 here my first file
+good bye
+test reset
